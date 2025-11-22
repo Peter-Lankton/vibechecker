@@ -211,14 +211,3 @@ See the [LICENSE](./LICENSE) file for details.
 
 Using this library in a networked service can trigger AGPL’s copyleft requirements; make sure that fits your plans before using it in closed-source products.
 
-```
-
----
-
-If you want, next step after you drop this in is:
-
-1. Commit `README.md` + updated `package.json`.
-2. Run `npm test && npm publish --access public`.
-3. Then we can treat `vibechecker` as “locked” and move on to the Chrome extension that consumes it.
-::contentReference[oaicite:0]{index=0}
-```
